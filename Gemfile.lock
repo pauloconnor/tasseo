@@ -62,7 +62,7 @@ GEM
       rest-client (~> 1.6.1)
       warden (~> 1.0)
       yajl-ruby (~> 1.1)
-    yajl-ruby (1.1.0)
+    yajl-ruby (1.4.1)
 
 PLATFORMS
   ruby
